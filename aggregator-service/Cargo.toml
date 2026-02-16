@@ -1,0 +1,7 @@
+[package]
+name = "aggregator-service"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tradepulse-common = { path = "../crates/common" }

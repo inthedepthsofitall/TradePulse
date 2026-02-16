@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+  "ingest-service",
+  "aggregator-service",
+  "alert-service",
+  "cli-subscriber",
+  "crates/common",
+]
+
+[workspace.package]
+edition = "2021"
+license = "MIT"
