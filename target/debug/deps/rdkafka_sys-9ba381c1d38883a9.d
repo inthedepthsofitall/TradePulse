@@ -1,0 +1,10 @@
+/Users/andrewsalas/TradePulse/target/debug/deps/rdkafka_sys-9ba381c1d38883a9.d: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/bindings.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/helpers.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/types.rs
+
+/Users/andrewsalas/TradePulse/target/debug/deps/librdkafka_sys-9ba381c1d38883a9.rlib: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/bindings.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/helpers.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/types.rs
+
+/Users/andrewsalas/TradePulse/target/debug/deps/librdkafka_sys-9ba381c1d38883a9.rmeta: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/bindings.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/helpers.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/types.rs
+
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/lib.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/bindings.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/helpers.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rdkafka-sys-4.10.0+2.12.1/src/types.rs:

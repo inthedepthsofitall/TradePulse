@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/build/cmake_install.cmake",
+		"/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/build/src/cmake_install.cmake",
+		"/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/build/src-cpp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

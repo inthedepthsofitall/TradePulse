@@ -1,0 +1,13 @@
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/cmake/RdKafka/RdKafkaConfig.cmake
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/cmake/RdKafka/RdKafkaConfigVersion.cmake
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/cmake/RdKafka/FindLZ4.cmake
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/cmake/RdKafka/RdKafkaTargets.cmake
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/cmake/RdKafka/RdKafkaTargets-debug.cmake
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/share/licenses/librdkafka/LICENSES.txt
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/pkgconfig/rdkafka-static.pc
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/librdkafka.a
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/include/librdkafka/rdkafka.h
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/include/librdkafka/rdkafka_mock.h
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/pkgconfig/rdkafka++-static.pc
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/lib/librdkafka++.a
+/Users/andrewsalas/TradePulse/target/debug/build/rdkafka-sys-bc31366d978141cd/out/include/librdkafka/rdkafkacpp.h

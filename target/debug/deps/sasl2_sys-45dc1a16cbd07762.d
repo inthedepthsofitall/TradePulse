@@ -1,0 +1,17 @@
+/Users/andrewsalas/TradePulse/target/debug/deps/sasl2_sys-45dc1a16cbd07762.d: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/hmac_md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/prop.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/sasl.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslplug.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslutil.rs
+
+/Users/andrewsalas/TradePulse/target/debug/deps/libsasl2_sys-45dc1a16cbd07762.rlib: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/hmac_md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/prop.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/sasl.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslplug.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslutil.rs
+
+/Users/andrewsalas/TradePulse/target/debug/deps/libsasl2_sys-45dc1a16cbd07762.rmeta: /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/lib.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/hmac_md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/md5.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/prop.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/sasl.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslplug.rs /Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslutil.rs
+
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/lib.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/hmac_md5.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/md5.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/prop.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/sasl.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslplug.rs:
+/Users/andrewsalas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sasl2-sys-0.1.22+2.1.28/src/saslutil.rs:
+
+# env-dep:SASL_VERSION_MAJOR=
+# env-dep:SASL_VERSION_MINOR=
+# env-dep:SASL_VERSION_STEP=

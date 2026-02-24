@@ -5,3 +5,10 @@ edition = "2021"
 
 [dependencies]
 tradepulse-common = { path = "../crates/common" }
+tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
+rdkafka = { version = "0.36.2", features = ["cmake-build", "ssl", "sasl"] }
+serde_json = "1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
